@@ -1,24 +1,24 @@
-import * as C from './styles';
+import { Container, AreaButtons, Buttons} from './styles';
 
 const Expertise = ()=> {
   return(
-    <C.Container>
+    <Container>
       <h2>Áreas de Atuação</h2>
-      <C.AreaButtons>
-        <C.Buttons>
+      <AreaButtons>
+        <Buttons>
           Civil
-        </C.Buttons>
-        <C.Buttons>
+        </Buttons>
+        <Buttons>
           Consumidor
-        </C.Buttons>
-        <C.Buttons>
+        </Buttons>
+        <Buttons>
           Administrativo
-        </C.Buttons>
-        <C.Buttons>
+        </Buttons>
+        <Buttons>
           Eleitoral
-        </C.Buttons>
-      </C.AreaButtons>
-    </C.Container>
+        </Buttons>
+      </AreaButtons>
+    </Container>
   )
 }
 
