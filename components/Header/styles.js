@@ -11,8 +11,7 @@ export const Area = styled.div`
   align-items: center;
   justify-content: space-around;
   padding: 1rem;
-  border: 1px solid rgb(255, 255, 255, 0.3);
-  background-color: rgb(10, 24, 63, 0.8);
+
 
   @media(max-width: 800px) {
     flex-direction: column;
