@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Header from '../components/Header';
 import Expertise from '../components/Expertise';
 import Profile from '../components/Profile';
-import * as C from './styles';
+import * as C from '../components/styles';
 
 export default function Home() {
   return (
