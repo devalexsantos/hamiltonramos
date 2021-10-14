@@ -7,7 +7,6 @@ background-size: auto;
 background-repeat: no-repeat;
 background-attachment: fixed;
 width: 100vw;
-min-height: 100vh;
 height: 100%;
 `;
 
