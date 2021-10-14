@@ -12,7 +12,7 @@ export const Area = styled.div`
   justify-content: space-around;
   padding: 1rem;
   border: 1px solid rgb(255, 255, 255, 0.3);
-  background-color: rgb(10, 24, 63, 0.6);
+  background-color: rgb(10, 24, 63, 0.8);
 
   @media(max-width: 800px) {
     flex-direction: column;
@@ -20,7 +20,7 @@ export const Area = styled.div`
 `;
 
 export const Logo = styled.div`
-  max-width: 200px;
+  max-width: 300px;
   margin: 0 20px;
 
   img {

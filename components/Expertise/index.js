@@ -6,16 +6,16 @@ const Expertise = ()=> {
       <h2>Áreas de Atuação</h2>
       <AreaButtons>
         <Buttons>
-          Civil
+          <i className="fas fa-check"></i> Civil
         </Buttons>
         <Buttons>
-          Consumidor
+          <i className="fas fa-check"></i>  Consumidor
         </Buttons>
         <Buttons>
-          Administrativo
+          <i className="fas fa-check"></i> Administrativo
         </Buttons>
         <Buttons>
-          Eleitoral
+          <i className="fas fa-check"></i> Eleitoral
         </Buttons>
       </AreaButtons>
     </Container>

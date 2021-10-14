@@ -6,7 +6,7 @@ const Profile = () => {
     <Container>
       <Area>
       <Avatar>
-        <Image src="/images/hamilton-ramos-avatar.jpeg" alt="Hamilton Ramos" width={150} height={150}/>
+        <img src="/images/hamilton-ramos-avatar.jpeg" alt="Hamilton Ramos"/>
       </Avatar>
       <ProfileAbout>
         <h4>Hamilton José Teixeira Ramos</h4>

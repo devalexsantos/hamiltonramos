@@ -3,6 +3,9 @@ import Header from '../components/Header';
 import Expertise from '../components/Expertise';
 import Profile from '../components/Profile';
 import * as C from '../components/styles';
+import Script from 'next/script';
+import Contacts from '../components/Contacts';
+import GoogleMaps from '../components/GoogleMaps';
 
 export default function Home() {
   return (
@@ -19,11 +22,14 @@ export default function Home() {
             <Header/>
             <Expertise/>
             <Profile/>
+            <Contacts/>
+            <GoogleMaps/>
           </C.Area>
         </C.Container>
       </main>
 
       <footer>
+      <Script src="https://kit.fontawesome.com/33c943d672.js" crossorigin="anonymous"></Script>
 
       </footer>
     </div>
