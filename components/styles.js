@@ -1,6 +1,10 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
+@media(max-width: 600px) {
+  background-image: url("images/background-mobile-50.jpg") !important;
+  };
+  
 background-image: url("images/background-desk-50.jpg");
 background-color: rgb(10, 24, 63);
 background-size: cover;
@@ -9,9 +13,6 @@ background-attachment: fixed;
 width: 100vw;
 height: 100%;
 
-@media(max-width: 400px) {
-  background-image: url("images/background-mobile-50.jpg");
-  }
 `;
 
 export const Area = styled.div`
