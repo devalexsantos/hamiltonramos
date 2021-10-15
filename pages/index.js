@@ -5,7 +5,7 @@ import Profile from '../components/Profile';
 import * as C from '../components/styles';
 import Script from 'next/script';
 import Contacts from '../components/Contacts';
-import GoogleMaps from '../components/GoogleMaps';
+import About from '../components/About';
 
 export default function Home() {
   return (
@@ -21,9 +21,9 @@ export default function Home() {
           <C.Area>
             <Header/>
             <Expertise/>
+            <About/>
             <Profile/>
             <Contacts/>
-            <GoogleMaps/>
           </C.Area>
         </C.Container>
       </main>

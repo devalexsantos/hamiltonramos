@@ -6,11 +6,11 @@ const Profile = () => {
     <Container>
       <Area>
       <Avatar>
-        <img src="/images/hamilton-ramos-avatar.jpeg" alt="Hamilton Ramos"/>
+        <img src="/images/avatar_novo.jpg" alt="Hamilton Ramos"/>
       </Avatar>
       <ProfileAbout>
         <h4>Hamilton José Teixeira Ramos</h4>
-        <p>Advogado, graduado em Direito pela Estácio de Sá, Especialista em Direito Publico pela UNIFACS, atuante em direito do consumidor, empresarial & eleitoral.</p>
+        <p>Advogado, graduado em Direito pela Estácio de Sá, Especialista em Direito Publico pela UNIFACS, membro da Comissão de Direito do Consumidor OAB/MS, atuante em todo brasil.</p>
       </ProfileAbout>
       </Area>
     </Container>

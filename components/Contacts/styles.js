@@ -2,7 +2,18 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   margin: auto;
+  margin-top: 50px;
+  padding-bottom: 100px;
   text-align: center;
+
+  h2 {
+    background-color: #0A183F;
+    padding: 1rem;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255, 0.3);
+    border-radius: 15px;
+
+  }
 `;
 
 export const AreaButtons = styled.div`
