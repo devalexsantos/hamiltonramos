@@ -5,7 +5,7 @@ import Profile from '../components/Profile';
 import * as C from '../components/styles';
 import Script from 'next/script';
 import Contacts from '../components/Contacts';
-import About from '../components/About';
+import Copyright from '../components/Copyright';
 
 export default function Home() {
   return (
@@ -21,16 +21,15 @@ export default function Home() {
           <C.Area>
             <Header/>
             <Expertise/>
-            <About/>
             <Profile/>
             <Contacts/>
           </C.Area>
+          <Copyright/>
         </C.Container>
       </main>
 
       <footer>
       <Script src="https://kit.fontawesome.com/33c943d672.js" crossorigin="anonymous"></Script>
-
       </footer>
     </div>
   )
