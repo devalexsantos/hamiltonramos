@@ -25,8 +25,8 @@
 <a id="imagens"></a>
 # Imagens
 <div id="images" align="center">
-<img alt="Login Industria" title="Alex - Login Industria" src="./github/hamilton-ramos-01.gif" width="700px" /><br/>
-<img alt="Login Industria" title="Alex - Login Industria" src="./github/hamilton-ramos-02.gif" width="376px" />
+<img alt="Hamilton Ramos Adv" title="Site - Hamilton Ramos Adv" src="./github/hamilton-ramos-01.gif" width="700px" /><br/>
+<img alt="Hamilton Ramos Adv" title="Site - Hamilton Ramos Adv" src="./github/hamilton-ramos-02.gif" width="376px" />
 </div>
 
 <a id="tecnologias"></a>
