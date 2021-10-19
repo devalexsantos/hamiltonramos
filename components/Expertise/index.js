@@ -22,26 +22,34 @@ const list = {
       <h2>Áreas de Atuação</h2>
       <AreaButtons>
       <motion.div initial="hidden" animate="visible" variants={list} style={{display: 'flex', flexWrap: 'wrap'}}>
-      <motion.div variants={itemList}>
+      
         <Buttons>
+        <motion.div variants={itemList} style={{margin: 'auto'}}>
           <i className="fas fa-check"></i> Civil
+          </motion.div>
         </Buttons>
-      </motion.div>
-      <motion.div variants={itemList}>  
+      
+      
         <Buttons>
+        <motion.div variants={itemList}>  
           <i className="fas fa-check"></i>  Consumidor
+          </motion.div>
         </Buttons>
-      </motion.div>
-      <motion.div variants={itemList}>
+      
+      
         <Buttons>
+        <motion.div variants={itemList}>
           <i className="fas fa-check"></i> Administrativo
+          </motion.div>
         </Buttons>
-      </motion.div>
-      <motion.div variants={itemList}>
+      
+      
         <Buttons>
+        <motion.div variants={itemList}>
           <i className="fas fa-check"></i> Eleitoral
+          </motion.div>
         </Buttons>
-      </motion.div>
+      
       </motion.div>
       </AreaButtons>
     </Container>
