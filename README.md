@@ -1,34 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Site Institucional</h1>
 
-## Getting Started
+<p align="center">Site institucional e responsivo feito para o advogado Hamilton Ramos com animações de entrada. O site tem o objetivo de ser direto, passando as informações desejadas em apenas uma página. O briefing de layout foi passado pelo próprio Hamilton.</p>
 
-First, run the development server:
+<div align="center">
+  <h3> Publicado 🚀 </h3>
+  <strong><a href="https://hamiltonramos.adv.br">🔗 Clique Aqui para visualizar</a></strong>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Sumário
+-[Funcionalidades](#funcionalidades) <br/>
+-[Imagens](#imagens)<br/>
+-[Tecnologias](#tecnologias)<br/>
+-[Autor](#autor) <br/>
+-[Sobre a Login](https://loja.login.com.br)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<a id="funcionalidades"></a>
+# Funcionalidades
+- [x] Logo e texto sobre a empresa
+- [x] Áreas de atuação
+- [x] Texto e Avatar do Profissional
+- [x] Contatos de redes sociais
+- [X] Animações de entrada
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<a id="imagens"></a>
+# Imagens
+<div id="images" align="center">
+<img alt="Login Industria" title="Alex - Login Industria" src="./github/hamilton-ramos-01.gif" width="700px" /><br/>
+<img alt="Login Industria" title="Alex - Login Industria" src="./github/hamilton-ramos-02.gif" width="376px" />
+</div>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<a id="tecnologias"></a>
+# Tecnologias
+As ferramentas utilizadas foram:
+<ul style="list-style: none">
+  <li>Javascript</li>
+  <li>Next.Js</li>
+  <li>Styled Components</li>
+  <li>Framer Motion</li>
+</ul>
 
-## Learn More
+<div align="center">
+  <h3> Publicado 🚀 </h3>
+  <strong><a href="https://hamiltonramos.adv.br">🔗 Clique Aqui para visualizar</a></strong>
+</div>
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<a id="autor"></a>
+# Autor
+<div align="center" style="display: flex; flex-direction: column; justify-content: center">
+<div algin="center">
+<img align="center" alt="Alex Santos" title="Foto de Alex Santos" src="./github/devalexsantos.jpeg" width="150px" style="border-radius: 50%"/>
+</div>
+Alex Santos
+</div>
