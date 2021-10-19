@@ -12,7 +12,6 @@
 -[Imagens](#imagens)<br/>
 -[Tecnologias](#tecnologias)<br/>
 -[Autor](#autor) <br/>
--[Sobre a Login](https://loja.login.com.br)
 
 
 <a id="funcionalidades"></a>
